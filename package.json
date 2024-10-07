@@ -1,0 +1,15 @@
+{
+  "name": "protobuf-decorators",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denis Murphy",
+  "license": "ISC",
+  "dependencies": {
+    "protobufjs": "^7.4.0",
+    "reflect-metadata": "^0.2.2"
+  }
+}
